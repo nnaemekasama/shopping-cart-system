@@ -1,5 +1,4 @@
 import { useShoppingCart } from "@/context/ShoppingCartContext"
-import React from "react"
 import StoreItems from "../data/items.json"
 import { formarCurrency } from "@/utilities/formatCurrency"
 import { Button } from "./ui/button"

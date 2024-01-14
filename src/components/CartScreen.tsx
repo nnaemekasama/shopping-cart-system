@@ -1,5 +1,4 @@
 import { useShoppingCart } from "@/context/ShoppingCartContext"
-import React from "react"
 import { Button } from "./ui/button"
 import StoreItems from "../data/items.json"
 import CartItem from "./CartItem"

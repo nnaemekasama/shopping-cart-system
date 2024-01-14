@@ -1,5 +1,5 @@
 import CartScreen from "@/components/CartScreen";
-import { useLocalStorage } from "@/hooks/UseLocalStorage";
+import { useLocalStorage } from "../hooks/useLocalStorage";
 import { ReactNode, useContext, useState } from "react";
 import { createContext } from "react";
 

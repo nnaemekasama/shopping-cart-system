@@ -1,4 +1,3 @@
-import React from "react"
 import { formarCurrency } from "@/utilities/formatCurrency"
 import { Button } from "./ui/button"
 import { useShoppingCart } from "@/context/ShoppingCartContext"
